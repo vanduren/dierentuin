@@ -1,0 +1,9 @@
+- 20 dierentuinen in nederland zijn verenigd in een organisatie
+- de organisatie wil een ticket systeem waarmee klanten een online ticket kunnen kopen
+- je krijgt de opdracht om het systeem te bouwen
+- meer info hebben we niet
+- vragen:
+    - web interface en/of app
+    - beheer module?
+    - talen?
+    - toegang of ook andere producten?
